@@ -43,3 +43,10 @@ daily-checklist examples/checklist.md 2000-01-04
 * [ ] Exercise <!-- @ * * 2,4 -->
 * [ ] Work <!-- @ * * 1,2,3,4,5 -->
 ```
+
+Resulting into:
+
+## Daily checklist
+
+* [ ] Exercise <!-- @ * * 2,4 -->
+* [ ] Work <!-- @ * * 1,2,3,4,5 -->
